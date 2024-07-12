@@ -1,2 +1,1 @@
---platform=linux/amd64 drone/drone:2.24
---platform=linux/amd64 drone/drone-runner-kube:1.0.0-rc.3
+--platform=linux/amd64 gitea/act_runner:0.2.10
