@@ -1,1 +1,1 @@
-drone/drone:2.24
+drone/drone-runner-kube:latest
