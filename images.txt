@@ -1,1 +1,1 @@
-ubuntu:24.04
+drone/drone:2.24
