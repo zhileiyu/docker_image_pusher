@@ -1,1 +1,1 @@
-alpine/git:2.45.2
+plugins/docker:20.18
