@@ -1,1 +1,1 @@
-drone/drone-runner-kube:latest
+alpine/git:2.45.2
