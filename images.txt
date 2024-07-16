@@ -1,2 +1,2 @@
-docker:27.0.3-dind
+docker:27.0.3-cli
 
