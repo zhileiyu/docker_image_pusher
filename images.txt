@@ -1,1 +1,1 @@
-drone/drone-runner-kube:1.0.0-rc.3
+drone/drone-runner-docker:1.8.3
