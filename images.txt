@@ -1,1 +1,1 @@
-yangclivia/one-api
+justsong/one-api:v0.6.8
