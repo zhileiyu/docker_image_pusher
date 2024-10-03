@@ -1,1 +1,1 @@
-nginx:1.26.2-alpine
+idootop/mi-gpt:latest
