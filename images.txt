@@ -1,1 +1,1 @@
-redis:7.4.1
+gotenberg/gotenberg:8.14.1
