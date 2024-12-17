@@ -1,1 +1,1 @@
-calciumion/new-api:v0.3.0.0
+redis:7.4.1
